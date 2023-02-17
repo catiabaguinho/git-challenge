@@ -1,0 +1,3 @@
+No aparece el archivo historia.log porque el ejercicio solicita unicamente añadir el archivo hoy.log al stage y realizar el commit.
+No se considera el archivo historia.log. De esta manera no se llega a realizar ningun commit que que contenga el archivo historia.log. 
+Posteriormente al reconstruir los archivos eliminados el archivo historia.log  no esta contenido en el commit que se restauró a traves del comando checkout.
